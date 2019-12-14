@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990913703328",
+    "firebase_url": "https://tabianconsulting-2019dec10.firebaseio.com",
+    "project_id": "tabianconsulting-2019dec10",
+    "storage_bucket": "tabianconsulting-2019dec10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990913703328:android:2a7507e20dcbda878088c5",
+        "android_client_info": {
+          "package_name": "courses.pluralsight.com.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990913703328-uq8r41ts9q1q9cbimtfn5opspdub6l9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZkwu9_W5Y-Byp8mBZN9JVp3KXj1Y3qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990913703328-uq8r41ts9q1q9cbimtfn5opspdub6l9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
